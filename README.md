@@ -1,6 +1,4 @@
-
 @@ -3,82 +3,82 @@
-
 <!-- ⌨️ TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Passionate+About+Web+Development" />
