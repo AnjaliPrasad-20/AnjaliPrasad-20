@@ -1,5 +1,5 @@
 <!-- 🌊 ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Divya%20Guled&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anjali%20Prasad&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
 
 <!-- ⌨️ TYPING ANIMATION -->
 <div align="center">
